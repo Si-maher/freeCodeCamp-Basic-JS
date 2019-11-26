@@ -113,3 +113,10 @@ var ourDecimal = 5.7;
 // Answer
 var myDecimal = 4.1;
 
+// #################################
+
+// 13) Change the 0.0 so that product will equal 5.0.
+
+// Answer
+var product = 2.0 * 2.5;
+
