@@ -63,6 +63,15 @@ console.log(myStr);
 
 // ################################
 
+// 28) Use the .length property to count the number of characters in the lastName variable and assign it to lastNameLength.
+
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Answer
+
+lastNameLength = lastName.length;
+console.log(lastNameLength);
 
 // ################################
 // ################################
