@@ -74,8 +74,29 @@ lastNameLength = lastName.length;
 console.log(lastNameLength);
 
 // ################################
+
+// 29) Use bracket notation to find the first character in the lastName variable and assign it to firstLetterOfLastName.
+
+
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+// Answer
+firstLetterOfLastName = lastName[0];
+console.log(firstLetterOfLastName);
+
 // ################################
+
+// 30) Correct the assignment to myStr so it contains the string value of Hello World using the approach shown in the example above.
+
+var myStr = "Jello World";
+
+// Answer
+
+myStr = "Hello World"; 
+
 // ################################
+
 // ################################
 // ################################
 // ################################
