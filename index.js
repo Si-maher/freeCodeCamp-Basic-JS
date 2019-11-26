@@ -3,7 +3,7 @@
 // Example
 var ourName;
 
-// Declare myName below this line
+// Answer
 var myName;
 
 // ####################
@@ -14,6 +14,18 @@ var myName;
 var a;
 var b = 2;
 
-// Only change code below this line
+// Answer
 var a = 7;
 var b = a; 
+
+// ######################
+
+// 3) Define a variable a with var and initialize it to a value of 9.
+
+// Example
+var ourVar = 19;
+
+// Answer
+var a = 9;
+
+// ##########################
