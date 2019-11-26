@@ -30,8 +30,20 @@ console.log(myStr);
 // Answer
 
 var myStr = "This is the start. "  +  "This is the end.";
+
 // ################################
+
+// 25) Build myStr over several lines by concatenating these two strings: "This is the first sentence. " and "This is the second sentence." using the += operator. Use the += operator similar to how it is shown in the editor. Start by assigning the first string to myStr, then add on the second string.
+
+// Answer
+
+var myStr = "This is the first sentence. "
+myStr += "This is the second sentence.";
+console.log(myStr);
+
 // ################################
+
+
 // ################################
 // ################################
 // ################################
