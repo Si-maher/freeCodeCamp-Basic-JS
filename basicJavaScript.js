@@ -27,6 +27,8 @@ var ourVar = 19;
 
 // Answer
 var a = 9;
+console.log(a);
+
 
 // ##########################
 
@@ -64,6 +66,8 @@ titleCaseOver = 9000;
 
 // Answer
 var sum = 10 + 10;
+console.log(sum);
+
 
 // ################################
 
@@ -71,6 +75,8 @@ var sum = 10 + 10;
 
 // Answer
 var difference = 45 - 33;
+console.log(difference);
+
 
 // #################################
 
@@ -78,6 +84,8 @@ var difference = 45 - 33;
 
 // Answer
 var product = 8 * 10;
+console.log(product);
+
 
 // #############################
 
@@ -85,6 +93,8 @@ var product = 8 * 10;
 
 // Answer 
 var quotient = 66 / 33;
+console.log(quotient);
+
 
 // #############################
 
@@ -94,15 +104,19 @@ var myVar = 87;
 
 // Answer
  myVar ++;
+ console.log(myVar);
+ 
 
 // ###############################
 
 // 11) Change the code to use the -- operator on myVar.
 
-var myVar = 11;
+var myVar1 = 11;
 
 // Answer
-myVar--;
+myVar1--;
+console.log(myVar1);
+
 
 // ###############################
 
@@ -112,6 +126,7 @@ var ourDecimal = 5.7;
 
 // Answer
 var myDecimal = 4.1;
+console.log(myDecimal);
 
 // #################################
 
@@ -119,6 +134,7 @@ var myDecimal = 4.1;
 
 // Answer
 var product = 2.0 * 2.5;
+console.log(product);
 
 // #################################
 
@@ -129,7 +145,15 @@ var quotient = 4.4 / 2.0;
 console.log(quotient);
 
 // #################################
+
+// 15) Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
+
+// Answer
+var remainder = 11 % 3;
+console.log(remainder);
+
 // #################################
+
 // #################################
 // #################################
 // #################################
