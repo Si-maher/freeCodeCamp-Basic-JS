@@ -69,6 +69,14 @@ var sum = 10 + 10;
 
 // 7) Change the 0 so the difference is 12.
 
+// Answer
 var difference = 45 - 33;
+
+// #################################
+
+// 8) Change the 0 so that product will equal 80.
+
+// Answer
+var product = 8 * 10;
 
 
