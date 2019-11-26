@@ -153,6 +153,7 @@ var remainder = 11 % 3;
 console.log(remainder);
 
 // #################################
+
 // 16) Convert the assignments for a, b, and c to use the += operator.
 
 var a = 3;
@@ -164,7 +165,21 @@ var c = 12;
 a+= 12;
 b+= 9;
 c+= 7;
+
 // #################################
+
+// 17) Convert the assignments for a, b, and c to use the -= operator.
+
+var a = 11;
+var b = 9;
+var c = 3;
+
+// Answer
+
+a-= 6;
+b-= 15;
+c-=1;
+
 // #################################
 // #################################
 
