@@ -104,3 +104,12 @@ var myVar = 11;
 // Answer
 myVar--;
 
+// ###############################
+
+// 12) Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
+
+var ourDecimal = 5.7;
+
+// Answer
+var myDecimal = 4.1;
+
