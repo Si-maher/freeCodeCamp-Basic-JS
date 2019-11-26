@@ -51,7 +51,19 @@ var myStr = "My name is" + myName + "and I am well!";
 console.log(myStr);
 
 // ################################
+
+// 27) Set someAdjective and append it to myStr using the += operator.
+
+// Answer
+
+var someAdjective = "fun";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
+console.log(myStr);
+
 // ################################
+
+
 // ################################
 // ################################
 // ################################
