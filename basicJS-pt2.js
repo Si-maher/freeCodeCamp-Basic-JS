@@ -94,10 +94,31 @@ var myStr = "Jello World";
 // Answer
 
 myStr = "Hello World"; 
+console.log(myStr);
+
 
 // ################################
 
+// 31) Let's try to set thirdLetterOfLastName to equal the third letter of the lastName variable using bracket notation.
+
+var lastName = "Lovelace";
+
+// Answer
+var thirdLetterOfLastName = lastName[2];
+console.log(thirdLetterOfLastName);
+
 // ################################
+
+// 32) Use bracket notation to find the last character in the lastName variable.
+
+var lastName = "Lovelace";
+
+// Answer
+var lastLetterOfLastName = lastName[lastName.length-1];
+console.log(lastLetterOfLastName);
+
 // ################################
+
+
 // ################################
 // ################################
