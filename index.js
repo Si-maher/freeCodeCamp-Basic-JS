@@ -60,5 +60,9 @@ titleCaseOver = 9000;
 
 // ###########################
 
+// 6) Change the 0 so that sum will equal 20.
+
+// Answer
+var sum = 10 + 10;
 
 
