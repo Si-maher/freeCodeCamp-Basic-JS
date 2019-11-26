@@ -24,8 +24,12 @@ console.log(myStr);
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
 console.log(myStr);
 
-
 // ################################
+// 24) Build myStr from the strings "This is the start. " and "This is the end." using the + operator.
+
+// Answer
+
+var myStr = "This is the start. "  +  "This is the end.";
 // ################################
 // ################################
 // ################################
