@@ -65,4 +65,10 @@ titleCaseOver = 9000;
 // Answer
 var sum = 10 + 10;
 
+// ################################
+
+// 7) Change the 0 so the difference is 12.
+
+var difference = 45 - 33;
+
 
