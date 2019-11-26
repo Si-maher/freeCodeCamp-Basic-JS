@@ -17,6 +17,13 @@ console.log(myStr);
 
 // ################################
 
+// 23) Assign the following three lines of text into the single variable myStr using escape sequences.
+
+// Answer
+
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+console.log(myStr);
+
 
 // ################################
 // ################################
