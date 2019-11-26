@@ -79,4 +79,10 @@ var difference = 45 - 33;
 // Answer
 var product = 8 * 10;
 
+// #############################
+
+// 9) Change the 0 so that the quotient is equal to 2.
+
+// Answer 
+var quotient = 66 / 33;
 
