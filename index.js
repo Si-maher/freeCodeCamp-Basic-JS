@@ -86,3 +86,12 @@ var product = 8 * 10;
 // Answer 
 var quotient = 66 / 33;
 
+// #############################
+
+// 10) Change the code to use the ++ operator on myVar.
+
+var myVar = 87;
+
+// Answer
+ myVar ++;
+
