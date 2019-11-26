@@ -210,3 +210,17 @@ c /=11;
 
 // #################################
 
+// 20) Create two new string variables: myFirstName and myLastName and assign them the values of your first and last name, respectively.
+
+// Example
+var firstName = "Alan";
+var lastName = "Turing";
+
+// Answer
+
+var myFirstName = 'Bob';
+var myLastName = 'Jones';
+console.log(myFirstName);
+console.log(myLastName);
+
+
