@@ -139,6 +139,13 @@ var myArray = ["LOTR", 469];
 console.log(myArray);
 
 // ################################
+
+// 36) Create a nested array called myArray.
+
+// Answer
+var myArray = [["Solar system", 9],["Earth", 365]];
+console.log(myArray);
+
 // ################################
 // ################################
 // ################################
