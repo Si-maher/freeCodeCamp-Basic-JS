@@ -92,7 +92,20 @@ function myLocalScope() {
     console.log(myVar);
   }
   myLocalScope();
+
 // ###########################
+
+// 50) Add a local variable to myOutfit function to override the value of outerWear with "sweater".
+
+// Answer
+
+var outerWear = "T-Shirt";
+function myOutfit() {
+  var outerWear = "sweater"
+  return outerWear;
+}
+myOutfit();
+
 // ###########################
 // ###########################
 // ###########################
