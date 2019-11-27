@@ -142,8 +142,23 @@ processed = processArg(7)
 
 // ###########################
 
-54) 
+// 54) Write a function nextInLine which takes an array (arr) and a number (item) as arguments.Add the number to the end of the array, then remove the first element of the array.The nextInLine function should then return the element that was removed.
+
+// Answer
+
+function nextInLine(arr, item) {
+    
+  arr.push(item)
+  var removedElement = arr.shift()
+    return removedElement;  
+  }
+  var testArr = [1,2,3,4,5];
+  console.log("Before: " + JSON.stringify(testArr));
+  console.log(nextInLine(testArr, 2)); // Modify this line to test
+  console.log("After: " + JSON.stringify(testArr));
+
 // ###########################
+
 // ###########################
 // ###########################
 // ###########################
