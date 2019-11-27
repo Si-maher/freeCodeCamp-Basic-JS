@@ -108,7 +108,7 @@ myOutfit();
 
 // ###########################
 
-// 51) Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value. See the last line in the editor for an example of how you can test your timesFive function.
+// 51) Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value. 
 
 // Answer
 
@@ -119,7 +119,14 @@ function timesFive(num) {
 
 // ###########################
 
+// 52) Create a function addFive without any arguments. This function adds 5 to the sum variable, but its returned value is undefined.
 
+// Answer
+
+function addFive(){
+    sum = sum + 5
+  }
+  addFive();
 // ###########################
 // ###########################
 // ###########################
