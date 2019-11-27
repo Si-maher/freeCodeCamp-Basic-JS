@@ -37,7 +37,19 @@ var myList = [["Apples", 4] , ["Pears", 2], ["Biscuits", 2], ["Pepsi", 1], ["Bre
 console.log(myList);
 
 // ###########################
+
+// 46) Create a function called reusableFunction which prints "Hi World" to the dev console,
+// / Call the function.
+
+// Answer
+function reusableFunction() {
+    console.log("Hi World")
+  }
+  reusableFunction()
+
 // ###########################
+
+
 // ###########################
 // ###########################
 // ###########################
