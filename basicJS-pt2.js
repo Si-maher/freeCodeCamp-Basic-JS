@@ -128,4 +128,17 @@ var secondToLastLetterOfLastName = lastName[lastName.length-2];
 console.log(secondToLastName);
 
 // ################################
+
+// 34) TBC
+// ################################
+
+// 35) Modify the new array myArray so that it contains both a string and a number (in that order).
+
+// Answer
+var myArray = ["LOTR", 469];
+console.log(myArray);
+
+// ################################
+// ################################
+// ################################
 // ################################
