@@ -147,5 +147,14 @@ var myArray = [["Solar system", 9],["Earth", 365]];
 console.log(myArray);
 
 // ################################
+
+// 37) Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+
+var myArray = [50,60,70];
+
+// Answer
+var myData = myArray[0];
 // ################################
+
+
 // ################################
