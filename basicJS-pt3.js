@@ -81,6 +81,17 @@ function fun2() {
 }
 
 // ###########################
+
+// 49 ) Declare a local variable myVar inside myLocalScope. Run the tests and then follow the instructions commented out in the editor.
+
+// Answer
+
+function myLocalScope() {
+    'use strict'; 
+  var myVar;
+    console.log(myVar);
+  }
+  myLocalScope();
 // ###########################
 // ###########################
 // ###########################
