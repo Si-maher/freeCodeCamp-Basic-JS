@@ -178,3 +178,12 @@ var myData = myArray[2][1];
 console.log(myData);
 
 // ################################
+
+// 40) Push ["dog", 3] onto the end of the myArray variable.
+
+var myArray = [["John", 23], ["cat", 2]];
+
+// Answer
+myArray.push(["dog", 3])
+console.log(myArray);
+
