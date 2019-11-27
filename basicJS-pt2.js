@@ -154,7 +154,18 @@ var myArray = [50,60,70];
 
 // Answer
 var myData = myArray[0];
+console.log(myArray);
+
+
 // ################################
+
+// 38) Modify the data stored at index 0 of myArray to a value of 45.
+
+var myArray = [18,64,99];
+
+// Answer
+myArray[0] = 45
+console.log(myArray);
 
 
 // ################################
