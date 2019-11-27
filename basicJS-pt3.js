@@ -28,6 +28,14 @@ myArray.unshift(["Paul", 35])
 console.log(myArray);
 
 // ###########################
+
+// 45) Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+
+// Answer
+
+var myList = [["Apples", 4] , ["Pears", 2], ["Biscuits", 2], ["Pepsi", 1], ["Bread", 3]];
+console.log(myList);
+
 // ###########################
 // ###########################
 // ###########################
