@@ -94,8 +94,22 @@ function testLessOrEqual(val) {
 
 // #################################
 
+// 66) Replace the two if statements with one statement, using the && operator, which will return "Yes" if val is less than or equal to 50 and greater than or equal to 25. Otherwise, will return "No".
+
+// Answer
+
+function testLogicalAnd(val) {
+  
+    if (val <= 50 && val >= 25) {
+     return "Yes";
+        }
+    return "No";
+  }
+  testLogicalAnd(10);
 
 // #################################
+
+
 // #################################
 // #################################
 // #################################
