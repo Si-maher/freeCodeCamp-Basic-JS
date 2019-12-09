@@ -173,7 +173,7 @@ function welcomeToBooleans() {
 function trueOrFalse(wasThatTrue) {
 
     // Answer
-    
+
   if(wasThatTrue){
     return "Yes, that was true"
   }
@@ -181,7 +181,20 @@ function trueOrFalse(wasThatTrue) {
   
   }
   trueOrFalse(true);
+
 // ###########################
+
+// 57) Add the equality operator to the indicated line so that the function will return "Equal" when val is equivalent to 12.
+
+// Answer
+
+function testEqual(val) {
+  if (val == 12) { 
+    return "Equal";
+  }
+  return "Not Equal";
+}
+testEqual(12);
 // ###########################
 // ###########################
 // ###########################
