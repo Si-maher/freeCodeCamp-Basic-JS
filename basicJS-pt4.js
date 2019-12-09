@@ -121,9 +121,47 @@ function testLogicalOr(val) {
     return "Inside";
   }
   testLogicalOr(9);
+
 // #################################
+
+// 68) Combine the if statements into a single if/else statement.
+
+// Answer
+
+function testElse(val) {
+    var result = "";
+   if (val > 5) {
+      result = "Bigger than 5";
+    }
+   else {
+      result = "5 or Smaller";
+    }
+    return result;
+  }
+  testElse(3);
+
 // #################################
+
+// 69) Convert the logic to use else if statements.
+
+// Answer
+
+function testElseIf(val) {
+    if (val > 10) {
+      return "Greater than 10";
+    }
+   else if (val < 5) {
+      return "Smaller than 5";
+    }
+  else {
+   return "Between 5 and 10";
+  }
+  }
+  testElseIf(8);
+
 // #################################
+
+70)
 // #################################
 // #################################
 // #################################
