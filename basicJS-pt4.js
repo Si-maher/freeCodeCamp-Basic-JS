@@ -327,6 +327,38 @@ function sequentialSizes(val) {
 
 // #################################
 
+// 76) Change the chained if/else if statements into a switch statement.
+
+// Answer 
+
+function chainToSwitch(val) {
+  var answer = "";
+ switch (val) {
+    case "bob":
+    return "Marley";
+    break;
+  case 42: 
+    return "The Answer";
+  break;
+   case 1: 
+    return "There is no #1";
+    break;
+  case 99:
+    return "Missed me by this much!";
+  break;
+  case 7:
+    return "Ate Nine";
+    break;
+    case "John":
+    return "";
+    break;
+    case 156:
+    return "";
+    default:
+  return answer;
+} }
+chainToSwitch(8);
+
 
 // #################################
 // #################################
