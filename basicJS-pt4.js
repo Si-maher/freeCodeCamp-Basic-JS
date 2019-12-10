@@ -359,8 +359,18 @@ function chainToSwitch(val) {
 } }
 chainToSwitch(8);
 
-
 // #################################
+
+// 77) Fix the function isLess to remove the if/else statements.
+
+// Answer 
+
+function isLess(a, b) {
+  return a < b
+ }
+ 
+ isLess(11, 16);
+ 
 // #################################
 // #################################
 // #################################
