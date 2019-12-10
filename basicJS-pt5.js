@@ -42,8 +42,22 @@ var testObj = {
 
 // ##################################
 
+// 83) Use the playerNumber variable to look up player 16 in testObj using bracket notation. Then assign that name to the player variable.
 
+// Answer 
+
+var testObj = {
+    12: "Namath",
+    16: "Montana",
+    19: "Unitas"
+  };
+  
+  var playerNumber = 16;
+  var player = testObj[playerNumber];   
+  
 // ##################################
+
+
 // ##################################
 // ##################################
 // ##################################
