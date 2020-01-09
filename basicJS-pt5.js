@@ -283,7 +283,22 @@ delete collection[id][prop]
 return collection;
 }
 updateRecords(5439, "artist", "ABBA");
+
 // ##################################
+
+// 93) Add the numbers 5 through 0 (inclusive) in descending order to myArray using a while loop.
+
+// Answer
+
+var myArray = [];
+var i = 5
+while (i >=0){
+    myArray.push(i)
+    i--
+}
+
+console.log(myArray);
+
 // ##################################
 // ##################################
 // ##################################
