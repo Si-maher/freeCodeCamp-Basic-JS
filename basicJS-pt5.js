@@ -168,7 +168,18 @@ var myMusic = [
         "LP"
       ],
       "gold": true
-    }
+    },
+    {
+      "artist": "Eminem",
+      "title" : "Goldrush",
+      "release_year" : "2018",
+      "formats" : [
+        "CD",
+        "8T",
+        "LP",
+      ],
+      "gold": true
+        }
   ];
 
   console.log(myMusic)
