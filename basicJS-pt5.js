@@ -300,6 +300,18 @@ while (i >=0){
 console.log(myArray);
 
 // ##################################
+
+// 94) Use a for loop to work to push the values 1 through 5 onto myArray.
+
+// Answer 
+
+var myArray = []
+  for (i = 1; i < 6; i++) {
+    myArray.push(i)
+  }
+
+  console.log(myArray);
+  
 // ##################################
 // ##################################
 // ##################################
