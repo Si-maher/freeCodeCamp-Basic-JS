@@ -326,6 +326,17 @@ for (i = 1; i < 10; i += 2){
 console.log(myArray);
 
 // ##################################
+
+// 96) Push the odd numbers from 9 through 1 to myArray using a for loop.
+
+// Answer 
+
+var myArray = []
+  for ( i = 9; i > 0; i -=2){
+    myArray.push(i)
+  }
+  console.log(myArray);
+  
 // ##################################
 // ##################################
 // ##################################
