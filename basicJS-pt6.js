@@ -73,8 +73,19 @@ function randomWholeNumber() {
 }
 randomWholeNumber()
 
-
 // ######################################
+
+// 104) Create a function called randomRange that takes a range myMin and myMax and returns a random number that's greater than or equal to myMin, and is less than or equal to myMax, inclusive. 
+
+// Answer 
+
+function randomRange(myMin, myMax) {
+    var number = Math.floor(Math.random() * (myMax - myMin)) + myMin
+    return number
+}
+randomRange(10,15)
+
+
 // ######################################
 // ######################################
 // ######################################
