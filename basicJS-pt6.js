@@ -87,6 +87,16 @@ randomRange(10,15)
 
 
 // ######################################
+
+// 105) Use parseInt() in the convertToInteger function so it converts the input string str into an integer, and returns it.
+
+// Answer 
+
+function convertToInteger(str) {
+    var a = parseInt(str)
+    return a
+}
+convertToInteger('56')
 // ######################################
 // ######################################
 // ######################################
