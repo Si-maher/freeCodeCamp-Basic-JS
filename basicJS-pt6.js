@@ -48,3 +48,26 @@ function lookUpProfile(name, prop) {
     return "No such contact"
 }
 lookUpProfile("Akira", "address")
+
+// ######################################
+
+// 102) Change randomFraction to return a random number instead of returning 0.
+
+// Answer
+
+function randomFraction() {
+    let number = Math.random()
+    return number
+}
+randomFraction()
+
+// ######################################
+
+// ######################################
+// ######################################
+// ######################################
+// ######################################
+// ######################################
+// ######################################
+// ######################################
+// ######################################
