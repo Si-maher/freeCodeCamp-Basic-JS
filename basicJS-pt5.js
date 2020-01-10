@@ -382,8 +382,22 @@ var i = 10;
 do {
   myArray.push(i)
   i++
-}while(i < 10)
+} while (i < 10)
 
 console.log(myArray);
 
 // ##################################
+
+// 100) Write a recursive function, sum(arr, n), that returns the sum of the elements from 0 to n inclusive in an array arr.
+
+// Answer 
+
+function sum(arr, n) {
+  
+if (n <=0) {
+  return arr[0]
+}else {
+  return sum(arr, n - 1) + arr[n]
+}
+
+}
