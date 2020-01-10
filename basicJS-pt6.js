@@ -97,7 +97,19 @@ function convertToInteger(str) {
     return a
 }
 convertToInteger('56')
+
 // ######################################
+
+// 106) Use parseInt() in the convertToInteger function so it converts a binary number to an integer and returns it.
+
+// Answer 
+
+function convertToInteger(str, radix) {
+    var a = parseInt(str, 2)
+    return a
+}
+
+convertToInteger('10011')
 // ######################################
 // ######################################
 // ######################################
