@@ -63,6 +63,17 @@ randomFraction()
 
 // ######################################
 
+// 103) Use this technique to generate and return a random whole number between 0 and 9.
+
+// Answer 
+
+function randomWholeNumber() {
+    var number = Math.floor(Math.random() * 10)
+    return number
+}
+randomWholeNumber()
+
+
 // ######################################
 // ######################################
 // ######################################
